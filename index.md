@@ -1,4 +1,4 @@
-# Welcome to Andis Portfolio!
+# Welcome
 
 Hey there! I'm Andrea, a passionate learner, teacher, and programmer on a journey through the exciting world of technology. 🌟
 
