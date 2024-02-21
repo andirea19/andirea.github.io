@@ -16,7 +16,7 @@
 title: Portfolio Page
 email: "unger.er.andrea@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-Project to play with Jekyll
+  Project to play with Jekyll
 
 # Build settings
 plugins:
@@ -24,8 +24,10 @@ plugins:
   - jekyll-sitemap
 
 # A list of the pages to display in the navigation bar
-header_pages: https://github.com/andirea19/andirea.github.io
-
+header_pages:
+  - Home
+  - About
+  - Contact
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
