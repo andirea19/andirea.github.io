@@ -1,18 +1,13 @@
 
 # Boostrap 4 Github Pages
 
-A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+A small project to try out Jekyll and Bootstrap.
 
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
+# Andrea 
 
-[See the website for demonstration and documentation](https://nicolas-van.github.io/bootstrap-4-github-pages/).
+Ich bin eine äußerst teamorientierte Mitarbeiterin und arbeite gerne im Team, um gemeinsam Projekte zu realisieren. Ich bin unglaublich neugierig und liebe es, neue Dinge zu lernen und mich weiterzuentwickeln. Wenn ich neues Wissen erlange, teile ich es gerne mit meinem Team und stehe ihnen bei Bedarf mit Rat und Tat zur Seite.
 
-## Contribution
-
-[See the contribution guide.](./CONTRIBUTING.md)
+Abseits der Arbeit verbringe ich Zeit mit meinen Katzen, für die ich viel Zuneigung und Aufmerksamkeit übrig habe. Außerdem bin ich ein großer Fan von Kaffee und genieße es, eine Tasse davon zu trinken, während ich mich in Gespräche vertiefe oder mich meinen Aufgaben widme. Insgesamt betrachte ich mich als eine positive und bereichernde Persönlichkeit im Arbeitsumfeld.
 
 ## License
 
